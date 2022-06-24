@@ -1,3 +1,6 @@
+alert("Hello world");
+
+
 let myName = ("Mercy Irete Omole")
 let myHeight = ("1.86m")
 let myCountry = ("Nigeira")
